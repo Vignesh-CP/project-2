@@ -1,0 +1,57 @@
+body{
+  text-align:center;
+  margin:15%;
+}
+footer{
+position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   }
+h1{
+  padding-left: 50px;
+  padding-bottom:30px;
+}
+p{
+  padding-left: 50px;
+  padding-right: 50px;
+  Font-size: 15px;
+}
+
+.sedans{
+  background-color: hsl(31, 77%, 52%);
+  color: hsl(0, 0%, 95%);
+  text-align: left;
+  border-radius: 15px 15px 15px 15px ;
+
+}
+.suvs{
+  background-color: hsl(184, 100%, 22%);
+  color: hsl(0, 0%, 95%);
+  text-align: left;
+  border-radius: 15px 15px 15px 15px ;
+}
+.luxury{
+  background-color: hsl(179, 100%, 13%);
+  color: hsl(0, 0%, 95%);
+  text-align: left;
+  border-radius: 15px 15px 15px 15px ;
+}
+.button {
+  background-color:hsl(0, 0%, 95%) ;
+  border: none;
+  color: hsl(31, 77%, 52%);
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 16px;
+}
+.but{
+  padding:70px 50px 50px;
+}
+img{
+  padding:50px ;
+}
